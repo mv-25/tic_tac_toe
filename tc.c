@@ -5,7 +5,11 @@ void main()
 
 	//hi
 	//this is only on feature1 branch
+<<<<<<< HEAD
 	//some other person changed this line but i made my own changes
+=======
+	//some other person changed this line again
+>>>>>>> cfa1c6f0fb4a6232ea59955758bc5153055c9918
 	char ans;
 	do
    {
