@@ -1,6 +1,8 @@
 #include<stdio.h>
 void main()
 {
+
+	//hi
 	char ans;
 	do
    {
